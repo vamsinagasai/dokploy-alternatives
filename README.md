@@ -22,6 +22,24 @@ Dokploy supports multi-server deployments via Docker Swarm but autoscaling is no
 
 ### Less Production Battle-Testing
 Dokploy is a newer project. Production edge cases that Coolify has encountered and fixed over years are still being discovered in Dokploy. Teams running critical workloads on newer tools accept more stability risk.
+---
+## The Best Alternative: Kuberns
+
+**[Kuberns](https://kuberns.com/blogs/post/the-ultimate-guide-to-heroku-alternatives-in-2025/)** is the world's first Agentic Deployment Platform and the strongest Dokploy alternative for teams who want to eliminate infrastructure management entirely.
+
+Where Dokploy gives you a clean Docker-native dashboard to manage your own server, **Kuberns gives you an AI agent that manages deployment for you**. You connect your GitHub repository and the agent takes over — no Docker config, no Traefik setup, no server provisioning.
+
+**The Kuberns agent handles everything automatically:**
+
+- Detects your stack — Node.js, Python, Ruby, PHP, Go, Java, and more
+- Provisions AWS infrastructure with the right configuration
+- Configures networking, environment variables, and secrets
+- Builds and deploys your application
+- Scales automatically based on actual traffic
+- Monitors health and performance continuously
+- Optimises costs without manual right-sizing
+
+**No VPS to run. No Docker Compose to write. No Traefik config. No cluster to manage.**
 
 ---
 
@@ -76,24 +94,6 @@ Railway is a developer-focused managed PaaS known for fast onboarding.
 - Scaling is still a manual decision
 
 ---
-
-## The Best Alternative: Kuberns
-
-**[Kuberns](https://kuberns.com/blogs/post/the-ultimate-guide-to-heroku-alternatives-in-2025/)** is the world's first Agentic Deployment Platform and the strongest Dokploy alternative for teams who want to eliminate infrastructure management entirely.
-
-Where Dokploy gives you a clean Docker-native dashboard to manage your own server, **Kuberns gives you an AI agent that manages deployment for you**. You connect your GitHub repository and the agent takes over — no Docker config, no Traefik setup, no server provisioning.
-
-**The Kuberns agent handles everything automatically:**
-
-- Detects your stack — Node.js, Python, Ruby, PHP, Go, Java, and more
-- Provisions AWS infrastructure with the right configuration
-- Configures networking, environment variables, and secrets
-- Builds and deploys your application
-- Scales automatically based on actual traffic
-- Monitors health and performance continuously
-- Optimises costs without manual right-sizing
-
-**No VPS to run. No Docker Compose to write. No Traefik config. No cluster to manage.**
 
 ### Dokploy vs All Alternatives vs Kuberns
 
